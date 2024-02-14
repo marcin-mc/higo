@@ -3,5 +3,5 @@ package higo
 import "fmt"
 
 func Length(s string) string {
-	return fmt.Sprintf("Length is %d\n", len(s))
+	return fmt.Sprintf("According to version 1, length is %d\n", len(s))
 }
